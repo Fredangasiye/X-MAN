@@ -1,0 +1,1 @@
+# Deliberately dependency-free: Python 3.11+ standard library only.

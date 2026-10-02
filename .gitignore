@@ -1,0 +1,5 @@
+.env
+data/bot.sqlite3
+__pycache__/
+work/
+.vercel/

@@ -1,0 +1,3823 @@
+[
+  {
+    "id": "S1.1",
+    "topic": "General & Demographics",
+    "text": "Okay, let's start with an easy one.... what sort of music do you mostly listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "okay",
+      "let's",
+      "start",
+      "with",
+      "easy",
+      "what",
+      "sort",
+      "music"
+    ]
+  },
+  {
+    "id": "S1.2",
+    "topic": "General & Demographics",
+    "text": "Do you DESCRIBE YOURSELF as female, male or in a non-binary way?",
+    "options": [
+      "Male",
+      "Female",
+      "Non-binary"
+    ],
+    "format": "poll",
+    "keywords": [
+      "describe",
+      "yourself",
+      "female",
+      "male",
+      "non-binary"
+    ]
+  },
+  {
+    "id": "S1.3",
+    "topic": "General & Demographics",
+    "text": "What year were you BORN?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "year",
+      "were",
+      "born"
+    ]
+  },
+  {
+    "id": "S1.4",
+    "topic": "General & Demographics",
+    "text": "You DESCRIBE YOURSELF as...?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "describe",
+      "yourself"
+    ]
+  },
+  {
+    "id": "S1.5",
+    "topic": "General & Demographics",
+    "text": "What is your RELIGIOUS denomination?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "religious",
+      "denomination"
+    ]
+  },
+  {
+    "id": "S1.6",
+    "topic": "General & Demographics",
+    "text": "Which of the following languages can you SPEAK FLUENTLY?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "languages",
+      "speak",
+      "fluently"
+    ]
+  },
+  {
+    "id": "S1.7",
+    "topic": "General & Demographics",
+    "text": "And which of them is your HOME LANGUAGE?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "them",
+      "your",
+      "home",
+      "language"
+    ]
+  },
+  {
+    "id": "S1.8",
+    "topic": "General & Demographics",
+    "text": "What is your highest LEVEL OF EDUCATION?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "highest",
+      "level",
+      "education"
+    ]
+  },
+  {
+    "id": "S1.9",
+    "topic": "General & Demographics",
+    "text": "How likely are you to STUDY FURTHER at some stage in your life?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "likely",
+      "study",
+      "further",
+      "some",
+      "stage",
+      "your",
+      "life"
+    ]
+  },
+  {
+    "id": "S1.10",
+    "topic": "General & Demographics",
+    "text": "Which of these institutions or education channels are you LIKELY TO CONSIDER?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "institutions",
+      "education",
+      "channels",
+      "likely",
+      "consider"
+    ]
+  },
+  {
+    "id": "S1.11",
+    "topic": "General & Demographics",
+    "text": "You live...",
+    "options": [
+      "Alone",
+      "With other people"
+    ],
+    "format": "poll",
+    "keywords": [
+      "live"
+    ]
+  },
+  {
+    "id": "S1.12",
+    "topic": "General & Demographics",
+    "text": "And WHO do you live with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "live",
+      "with"
+    ]
+  },
+  {
+    "id": "S1.13",
+    "topic": "General & Demographics",
+    "text": "What PETS do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "pets"
+    ]
+  },
+  {
+    "id": "S1.14",
+    "topic": "General & Demographics",
+    "text": "HOW OLD is (are) your child (children)? (tick all that apply)",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "your",
+      "child",
+      "children",
+      "tick",
+      "that",
+      "apply"
+    ]
+  },
+  {
+    "id": "S1.15",
+    "topic": "General & Demographics",
+    "text": "How do you CURRENTLY EDUCATE your child(ren)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "currently",
+      "educate",
+      "your",
+      "child"
+    ]
+  },
+  {
+    "id": "S1.16",
+    "topic": "General & Demographics",
+    "text": "Which PROVINCE do you live in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "province",
+      "live"
+    ]
+  },
+  {
+    "id": "S1.17",
+    "topic": "General & Demographics",
+    "text": "Which TOWN OR SUBURB do you live in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "town",
+      "suburb",
+      "live"
+    ]
+  },
+  {
+    "id": "S1.18",
+    "topic": "General & Demographics",
+    "text": "HOW MANY people contribute to your household income?",
+    "options": [
+      "Just me",
+      "Two of us",
+      "Three or more"
+    ],
+    "format": "poll",
+    "keywords": [
+      "many",
+      "people",
+      "contribute",
+      "your",
+      "household",
+      "income"
+    ]
+  },
+  {
+    "id": "S1.19",
+    "topic": "General & Demographics",
+    "text": "What is your total monthly PERSONAL income before tax? By this we mean your personal monthly salary before any deductions.",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "total",
+      "monthly",
+      "personal",
+      "income",
+      "before",
+      "this"
+    ]
+  },
+  {
+    "id": "S1.20",
+    "topic": "General & Demographics",
+    "text": "What is your total monthly HOUSEHOLD income before tax?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "total",
+      "monthly",
+      "household",
+      "income",
+      "before"
+    ]
+  },
+  {
+    "id": "S1.21",
+    "topic": "General & Demographics",
+    "text": "Which, if any, of these SASSA social grants do you or your household receive each month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "sassa",
+      "social",
+      "grants",
+      "your",
+      "household",
+      "receive"
+    ]
+  },
+  {
+    "id": "S1.22",
+    "topic": "General & Demographics",
+    "text": "What are your FAVOURITE TYPES of MOVIES to watch on the BIG or SMALL screen?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "favourite",
+      "types",
+      "movies",
+      "watch",
+      "small",
+      "screen"
+    ]
+  },
+  {
+    "id": "S1.23",
+    "topic": "General & Demographics",
+    "text": "Which of the following MODES OF TRANSPORT do you use at least once a week?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "modes",
+      "transport",
+      "least",
+      "once",
+      "week"
+    ]
+  },
+  {
+    "id": "S1.24",
+    "topic": "General & Demographics",
+    "text": "What is your WORK STATUS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "work",
+      "status"
+    ]
+  },
+  {
+    "id": "S1.25",
+    "topic": "General & Demographics",
+    "text": "How well do you think you're dealing with the CHALLENGES OF RETIREMENT (health, finances, social, etc.)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "well",
+      "think",
+      "you're",
+      "dealing",
+      "with",
+      "challenges",
+      "retirement",
+      "health"
+    ]
+  },
+  {
+    "id": "S1.26",
+    "topic": "General & Demographics",
+    "text": "What is your CURRENT LEVEL OF STUDY?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "your",
+      "current",
+      "level",
+      "study"
+    ]
+  },
+  {
+    "id": "S1.27",
+    "topic": "General & Demographics",
+    "text": "What KIND OF HIGHER EDUCATION INSTITUTION are you studying at?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "kind",
+      "higher",
+      "education",
+      "institution",
+      "studying"
+    ]
+  },
+  {
+    "id": "S1.28",
+    "topic": "General & Demographics",
+    "text": "Which of these best describes your FIELD OF STUDY?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "best",
+      "describes",
+      "your",
+      "field",
+      "study"
+    ]
+  },
+  {
+    "id": "S1.29",
+    "topic": "General & Demographics",
+    "text": "How are you FUNDING your studies?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "funding",
+      "your",
+      "studies"
+    ]
+  },
+  {
+    "id": "S1.30",
+    "topic": "General & Demographics",
+    "text": "When you think about life after graduation, which of the following are TRUE for you?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "when",
+      "think",
+      "about",
+      "life",
+      "after",
+      "graduation",
+      "which",
+      "following"
+    ]
+  },
+  {
+    "id": "S1.31",
+    "topic": "General & Demographics",
+    "text": "How MANY people work in your company?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "many",
+      "people",
+      "work",
+      "your",
+      "company"
+    ]
+  },
+  {
+    "id": "S1.32",
+    "topic": "General & Demographics",
+    "text": "When you think about the coming year, which of the following statements do you think are TRUE for you?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "when",
+      "think",
+      "about",
+      "coming",
+      "year",
+      "which",
+      "following",
+      "statements"
+    ]
+  },
+  {
+    "id": "S1.33",
+    "topic": "General & Demographics",
+    "text": "Which is the best description of the BUSINESS SECTOR you work in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "best",
+      "description",
+      "business",
+      "sector",
+      "work"
+    ]
+  },
+  {
+    "id": "S1.34",
+    "topic": "General & Demographics",
+    "text": "Which of these best describes your POSITION at work?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "best",
+      "describes",
+      "your",
+      "position",
+      "work"
+    ]
+  },
+  {
+    "id": "S1.35",
+    "topic": "General & Demographics",
+    "text": "Which of these best describes your current OCCUPATION?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "best",
+      "describes",
+      "your",
+      "current",
+      "occupation"
+    ]
+  },
+  {
+    "id": "S1.36",
+    "topic": "General & Demographics",
+    "text": "What INDUSTRY do you work in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "industry",
+      "work"
+    ]
+  },
+  {
+    "id": "S1.37",
+    "topic": "General & Demographics",
+    "text": "Apart from your salary or pension, what SIDELINE ACTIVITIES do you do to earn extra money?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "apart",
+      "from",
+      "your",
+      "salary",
+      "pension",
+      "what",
+      "sideline",
+      "activities"
+    ]
+  },
+  {
+    "id": "S1.38",
+    "topic": "General & Demographics",
+    "text": "Do you OWN OR RENT the property you live in?",
+    "options": [
+      "Rent",
+      "Own",
+      "I live rent free"
+    ],
+    "format": "poll",
+    "keywords": [
+      "rent",
+      "property",
+      "live"
+    ]
+  },
+  {
+    "id": "S1.39",
+    "topic": "General & Demographics",
+    "text": "What best describes the PLACE YOU LIVE IN?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "best",
+      "describes",
+      "place",
+      "live"
+    ]
+  },
+  {
+    "id": "S1.40",
+    "topic": "General & Demographics",
+    "text": "How many SLEEPING ROOMS are there in your house?",
+    "options": [
+      "One",
+      "Two",
+      "Three or more"
+    ],
+    "format": "poll",
+    "keywords": [
+      "many",
+      "sleeping",
+      "rooms",
+      "there",
+      "your",
+      "house"
+    ]
+  },
+  {
+    "id": "S1.41",
+    "topic": "General & Demographics",
+    "text": "Which of the following do you HAVE IN YOUR HOUSEHOLD?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "have",
+      "your",
+      "household"
+    ]
+  },
+  {
+    "id": "S1.42",
+    "topic": "General & Demographics",
+    "text": "Which of the following things do you have CLOSE TO where you live?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "things",
+      "have",
+      "close",
+      "where",
+      "live"
+    ]
+  },
+  {
+    "id": "S1.43",
+    "topic": "General & Demographics",
+    "text": "What OTHER PROPERTIES do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "other",
+      "properties"
+    ]
+  },
+  {
+    "id": "S2.1",
+    "topic": "Outlook & Interests",
+    "text": "In the next year, which of these things do you EXPECT TO DO?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "next",
+      "year",
+      "which",
+      "these",
+      "things",
+      "expect"
+    ]
+  },
+  {
+    "id": "S2.2",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following things KEEP YOU AWAKE at night?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "things",
+      "keep",
+      "awake",
+      "night"
+    ]
+  },
+  {
+    "id": "S2.3",
+    "topic": "Outlook & Interests",
+    "text": "How OPTIMISTIC are you about South Africa's future?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "optimistic",
+      "about",
+      "south",
+      "africa's",
+      "future"
+    ]
+  },
+  {
+    "id": "S2.4",
+    "topic": "Outlook & Interests",
+    "text": "How likely are you to EMIGRATE FROM SOUTH AFRICA in the next five years, i.e. move and live in another country?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "likely",
+      "emigrate",
+      "from",
+      "south",
+      "africa",
+      "next",
+      "five",
+      "years"
+    ]
+  },
+  {
+    "id": "S2.5",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following statements are TRUE about you?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "statements",
+      "true",
+      "about"
+    ]
+  },
+  {
+    "id": "S2.6",
+    "topic": "Outlook & Interests",
+    "text": "How HAPPY are you on a scale of 1 to 5",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "happy",
+      "scale"
+    ]
+  },
+  {
+    "id": "S2.7",
+    "topic": "Outlook & Interests",
+    "text": "Are you a member of the LGBTQ+ community?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "member",
+      "lgbtq",
+      "community"
+    ]
+  },
+  {
+    "id": "S2.8",
+    "topic": "Outlook & Interests",
+    "text": "Which of these describes your STATE OF HEALTH right now?",
+    "options": [
+      "I am in excellent health",
+      "I am in good health",
+      "I am in reasonable health",
+      "I am in poor health"
+    ],
+    "format": "poll",
+    "keywords": [
+      "which",
+      "these",
+      "describes",
+      "your",
+      "state",
+      "health",
+      "right"
+    ]
+  },
+  {
+    "id": "S2.9",
+    "topic": "Outlook & Interests",
+    "text": "Do you suffer from any MEDICAL CONDITIONS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "suffer",
+      "from",
+      "medical",
+      "conditions"
+    ]
+  },
+  {
+    "id": "S2.10",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following SPORTS are you interested in (to watch or play)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "sports",
+      "interested",
+      "watch",
+      "play"
+    ]
+  },
+  {
+    "id": "S2.11",
+    "topic": "Outlook & Interests",
+    "text": "And which of these sports do you actually PLAY OR PARTAKE in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "sports",
+      "actually",
+      "play",
+      "partake"
+    ]
+  },
+  {
+    "id": "S2.12",
+    "topic": "Outlook & Interests",
+    "text": "Which GYM CLUB do you belong to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "club",
+      "belong"
+    ]
+  },
+  {
+    "id": "S2.13",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following ACIVITIES AND PASTIMES are you interested in?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "acivities",
+      "pastimes",
+      "interested"
+    ]
+  },
+  {
+    "id": "S2.14",
+    "topic": "Outlook & Interests",
+    "text": "How often do you go to WATCH A MOVIE AT A CINEMA?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "watch",
+      "movie",
+      "cinema"
+    ]
+  },
+  {
+    "id": "S2.15",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following LIVE EVENTS are you likely to attend in the next year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "live",
+      "events",
+      "likely",
+      "attend",
+      "next",
+      "year"
+    ]
+  },
+  {
+    "id": "S2.16",
+    "topic": "Outlook & Interests",
+    "text": "Which of the following TYPES OF GAMBLING do you regularly do?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "types",
+      "gambling",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S2.17",
+    "topic": "Outlook & Interests",
+    "text": "Pick the 3 causes that you think DESERVE THE MOST SUPPORT.",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "pick",
+      "causes",
+      "that",
+      "think",
+      "deserve",
+      "most",
+      "support"
+    ]
+  },
+  {
+    "id": "S2.18",
+    "topic": "Outlook & Interests",
+    "text": "Which causes do you ACTIVELY SUPPORT now?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "causes",
+      "actively",
+      "support"
+    ]
+  },
+  {
+    "id": "S2.19",
+    "topic": "Outlook & Interests",
+    "text": "HOW do you support education?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "support",
+      "education"
+    ]
+  },
+  {
+    "id": "S2.20",
+    "topic": "Outlook & Interests",
+    "text": "How important do you think it is for companies and brands TO GIVE BACK?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "important",
+      "think",
+      "companies",
+      "brands",
+      "give",
+      "back"
+    ]
+  },
+  {
+    "id": "S2.21",
+    "topic": "Outlook & Interests",
+    "text": "Are you a REGISTERED organ donor?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "format": "poll",
+    "keywords": [
+      "registered",
+      "organ",
+      "donor"
+    ]
+  },
+  {
+    "id": "S2.22",
+    "topic": "Outlook & Interests",
+    "text": "Why are you NOT a registered organ donor?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "registered",
+      "organ",
+      "donor"
+    ]
+  },
+  {
+    "id": "S2.23",
+    "topic": "Outlook & Interests",
+    "text": "What PROMPTED YOU to become a registered organ donor?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "prompted",
+      "become",
+      "registered",
+      "organ",
+      "donor"
+    ]
+  },
+  {
+    "id": "S3.1",
+    "topic": "Money Matters & Loyalty",
+    "text": "Compared to two years ago, how are you FEELING FINANCIALLY?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "compared",
+      "years",
+      "feeling",
+      "financially"
+    ]
+  },
+  {
+    "id": "S3.2",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of the following things are you LIKELY TO DO THIS YEAR to deal with the rising cost of living?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "things",
+      "likely",
+      "this",
+      "year",
+      "deal",
+      "with"
+    ]
+  },
+  {
+    "id": "S3.3",
+    "topic": "Money Matters & Loyalty",
+    "text": "What percentage of your monthly income goes toward SUPPORTING FAMILY MEMBERS outside your household?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "percentage",
+      "your",
+      "monthly",
+      "income",
+      "goes",
+      "toward",
+      "supporting"
+    ]
+  },
+  {
+    "id": "S3.4",
+    "topic": "Money Matters & Loyalty",
+    "text": "Are you partly or TOTALLY FINANCIALLY DEPENDENT on a parent, relative or friend?",
+    "options": [
+      "Yes - totally",
+      "Yes - partially",
+      "No - not at all"
+    ],
+    "format": "poll",
+    "keywords": [
+      "partly",
+      "totally",
+      "financially",
+      "dependent",
+      "parent",
+      "relative",
+      "friend"
+    ]
+  },
+  {
+    "id": "S3.5",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of the following statements are most true on how you feel about BEING IN DEBT?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "statements",
+      "most",
+      "true",
+      "feel",
+      "about",
+      "being"
+    ]
+  },
+  {
+    "id": "S3.6",
+    "topic": "Money Matters & Loyalty",
+    "text": "What KINDS OF DEBTS do you have right now?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "kinds",
+      "debts",
+      "have",
+      "right"
+    ]
+  },
+  {
+    "id": "S3.7",
+    "topic": "Money Matters & Loyalty",
+    "text": "What BANK PRODUCTS do you have?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "bank",
+      "products",
+      "have"
+    ]
+  },
+  {
+    "id": "S3.8",
+    "topic": "Money Matters & Loyalty",
+    "text": "How do you INTERACT with your bank?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "interact",
+      "with",
+      "your",
+      "bank"
+    ]
+  },
+  {
+    "id": "S3.9",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which bank is your PRIMARY BANK - the one you use most often or where your salary is deposited?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "bank",
+      "your",
+      "primary",
+      "most",
+      "often",
+      "where",
+      "salary"
+    ]
+  },
+  {
+    "id": "S3.10",
+    "topic": "Money Matters & Loyalty",
+    "text": "What OTHER BANKS do you have an account with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "other",
+      "banks",
+      "have",
+      "account",
+      "with"
+    ]
+  },
+  {
+    "id": "S3.11",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which bank do you use for BUSINESS BANKING?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "bank",
+      "business",
+      "banking"
+    ]
+  },
+  {
+    "id": "S3.12",
+    "topic": "Money Matters & Loyalty",
+    "text": "How likely are you to CHANGE BANKS in the next two years?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "likely",
+      "change",
+      "banks",
+      "next",
+      "years"
+    ]
+  },
+  {
+    "id": "S3.13",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these statements BEST DESCRIBES your attitude towards finances, savings and investments?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "statements",
+      "best",
+      "describes",
+      "your",
+      "attitude",
+      "towards"
+    ]
+  },
+  {
+    "id": "S3.14",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these SAVINGS AND INVESTMENT PRODUCTS do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "savings",
+      "investment",
+      "products"
+    ]
+  },
+  {
+    "id": "S3.15",
+    "topic": "Money Matters & Loyalty",
+    "text": "HOW are you most likely to purchase savings and investment products (e.g. shares, unit trusts, policies) in future?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "most",
+      "likely",
+      "purchase",
+      "savings",
+      "investment",
+      "products",
+      "shares",
+      "unit"
+    ]
+  },
+  {
+    "id": "S3.16",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which FINANCIAL INSTITUTIONS do you use for savings and investments?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "financial",
+      "institutions",
+      "savings",
+      "investments"
+    ]
+  },
+  {
+    "id": "S3.17",
+    "topic": "Money Matters & Loyalty",
+    "text": "On average how much money do you manage to SAVE OR INVEST every month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "average",
+      "much",
+      "money",
+      "manage",
+      "save",
+      "invest",
+      "every",
+      "month"
+    ]
+  },
+  {
+    "id": "S3.18",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these brands would you SERIOUSLY CONSIDER doing business with next time you want to purchase a product from a Financial Service Provider?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "brands",
+      "would",
+      "seriously",
+      "consider",
+      "doing",
+      "business"
+    ]
+  },
+  {
+    "id": "S3.19",
+    "topic": "Money Matters & Loyalty",
+    "text": "How do you generally buy your INSURANCE POLICIES (e.g. medical aid, life, household, car)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "generally",
+      "your",
+      "insurance",
+      "policies",
+      "medical",
+      "life",
+      "household"
+    ]
+  },
+  {
+    "id": "S3.20",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these LIFE INSURANCE / PROTECTION POLICIES do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "life",
+      "insurance",
+      "protection",
+      "policies"
+    ]
+  },
+  {
+    "id": "S3.21",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these COMPANIES do you currently have life insurance policies with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "companies",
+      "currently",
+      "have",
+      "life",
+      "insurance",
+      "policies"
+    ]
+  },
+  {
+    "id": "S3.22",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these FUNERAL POLICY companies do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "funeral",
+      "policy",
+      "companies"
+    ]
+  },
+  {
+    "id": "S3.23",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these SHORT-TERM INSURANCE PRODUCTS do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "short-term",
+      "insurance",
+      "products"
+    ]
+  },
+  {
+    "id": "S3.24",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these COMPANIES do you currently have short-term policies with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "companies",
+      "currently",
+      "have",
+      "short-term",
+      "policies",
+      "with"
+    ]
+  },
+  {
+    "id": "S3.25",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these MEDICAL AID OR INSURANCE PRODUCTS do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "medical",
+      "insurance",
+      "products"
+    ]
+  },
+  {
+    "id": "S3.26",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which financial INSTITUTIONS do you use for medical aid / insurance?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "financial",
+      "institutions",
+      "medical",
+      "insurance"
+    ]
+  },
+  {
+    "id": "S3.27",
+    "topic": "Money Matters & Loyalty",
+    "text": "Are you using LOYALTY PROGRAMMES more, the same or less often now than you were a year ago?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "using",
+      "loyalty",
+      "programmes",
+      "more",
+      "same",
+      "less",
+      "often",
+      "than"
+    ]
+  },
+  {
+    "id": "S3.28",
+    "topic": "Money Matters & Loyalty",
+    "text": "Why DON'T YOU use loyalty programmes?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "don't",
+      "loyalty",
+      "programmes"
+    ]
+  },
+  {
+    "id": "S3.29",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these RETAIL Loyalty programmes do you use? PS. It's a long list so please scroll through slowly and only pick the ones that apply!",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "retail",
+      "loyalty",
+      "programmes",
+      "it's",
+      "long",
+      "list"
+    ]
+  },
+  {
+    "id": "S3.30",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these BANKING, FINANCIAL and TRAVEL Loyalty programmes do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "banking",
+      "financial",
+      "travel",
+      "loyalty",
+      "programmes"
+    ]
+  },
+  {
+    "id": "S3.31",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of these RESTAURANT and LIFESTYLE Loyalty programmes do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "restaurant",
+      "lifestyle",
+      "loyalty",
+      "programmes"
+    ]
+  },
+  {
+    "id": "S3.32",
+    "topic": "Money Matters & Loyalty",
+    "text": "If you could ONLY KEEP ONE of these loyalty programmes, which would it be?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "could",
+      "only",
+      "keep",
+      "these",
+      "loyalty",
+      "programmes",
+      "which",
+      "would"
+    ]
+  },
+  {
+    "id": "S3.33",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of the following LOYALTY BENEFITS would you most enjoy?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "loyalty",
+      "benefits",
+      "would",
+      "most",
+      "enjoy"
+    ]
+  },
+  {
+    "id": "S3.34",
+    "topic": "Money Matters & Loyalty",
+    "text": "How do you prefer to MAKE USE OF a loyalty programme?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "prefer",
+      "make",
+      "loyalty",
+      "programme"
+    ]
+  },
+  {
+    "id": "S3.35",
+    "topic": "Money Matters & Loyalty",
+    "text": "Which of the following things are SIGNIFICANTLY INFLUENCED by the loyalty programmes you belong to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "things",
+      "significantly",
+      "influenced",
+      "loyalty",
+      "programmes",
+      "belong"
+    ]
+  },
+  {
+    "id": "S3.36",
+    "topic": "Money Matters & Loyalty",
+    "text": "When it comes to using loyalty programmes, which of the following statements are TRUE for you?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "when",
+      "comes",
+      "using",
+      "loyalty",
+      "programmes",
+      "which",
+      "following",
+      "statements"
+    ]
+  },
+  {
+    "id": "S4.1",
+    "topic": "Auto & Travel",
+    "text": "Which of the following FLIGHTS have you taken in the past year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "flights",
+      "have",
+      "taken",
+      "past",
+      "year"
+    ]
+  },
+  {
+    "id": "S4.2",
+    "topic": "Auto & Travel",
+    "text": "Which of these AIRLINES have you flown in the past year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "airlines",
+      "have",
+      "flown",
+      "past",
+      "year"
+    ]
+  },
+  {
+    "id": "S4.3",
+    "topic": "Auto & Travel",
+    "text": "Where do you NORMALLY STAY when you travel?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "normally",
+      "stay",
+      "when",
+      "travel"
+    ]
+  },
+  {
+    "id": "S4.4",
+    "topic": "Auto & Travel",
+    "text": "Which of the following HOLIDAYS are you seriously planning to take in the next year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "holidays",
+      "seriously",
+      "planning",
+      "take",
+      "next",
+      "year"
+    ]
+  },
+  {
+    "id": "S4.5",
+    "topic": "Auto & Travel",
+    "text": "Which of these TRAVEL APPS OR PLATFORMS do you regularly use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "travel",
+      "apps",
+      "platforms",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S4.6",
+    "topic": "Auto & Travel",
+    "text": "How did you BUY THE CAR you currently own or drive most often?",
+    "options": [
+      "New from a dealer",
+      "Used / second-hand",
+      "I don't own a car"
+    ],
+    "format": "poll",
+    "keywords": [
+      "currently",
+      "drive",
+      "most",
+      "often"
+    ]
+  },
+  {
+    "id": "S4.7",
+    "topic": "Auto & Travel",
+    "text": "WHAT CAR do you own or drive most often?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "drive",
+      "most",
+      "often"
+    ]
+  },
+  {
+    "id": "S4.8",
+    "topic": "Auto & Travel",
+    "text": "Which Chinese car brand do you own or drive most often?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "chinese",
+      "brand",
+      "drive",
+      "most",
+      "often"
+    ]
+  },
+  {
+    "id": "S4.9",
+    "topic": "Auto & Travel",
+    "text": "What TYPE OF VEHICLE is the one you drive most often?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "type",
+      "vehicle",
+      "drive",
+      "most",
+      "often"
+    ]
+  },
+  {
+    "id": "S4.10",
+    "topic": "Auto & Travel",
+    "text": "Which OTHER car brands do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "other",
+      "brands"
+    ]
+  },
+  {
+    "id": "S4.11",
+    "topic": "Auto & Travel",
+    "text": "Which OTHER Chinese car brands do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "other",
+      "chinese",
+      "brands"
+    ]
+  },
+  {
+    "id": "S4.12",
+    "topic": "Auto & Travel",
+    "text": "How are you most likely to BUY YOUR NEXT CAR?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "most",
+      "likely",
+      "your",
+      "next"
+    ]
+  },
+  {
+    "id": "S4.13",
+    "topic": "Auto & Travel",
+    "text": "How much do you PLAN TO SPEND on your next car?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "much",
+      "plan",
+      "spend",
+      "your",
+      "next"
+    ]
+  },
+  {
+    "id": "S4.14",
+    "topic": "Auto & Travel",
+    "text": "When it comes to your car, which one of the following statements do you MOST AGREE with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "when",
+      "comes",
+      "your",
+      "which",
+      "following",
+      "statements",
+      "most",
+      "agree"
+    ]
+  },
+  {
+    "id": "S4.15",
+    "topic": "Auto & Travel",
+    "text": "How do you feel about ELECTRIC / HYBRID CARS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "feel",
+      "about",
+      "electric",
+      "hybrid",
+      "cars"
+    ]
+  },
+  {
+    "id": "S5.1",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these MEAL DELIVERY SERVICES do you use at least once a month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "meal",
+      "delivery",
+      "services",
+      "least",
+      "once",
+      "month"
+    ]
+  },
+  {
+    "id": "S5.2",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these things can you see yourself DOING in the near future?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "things",
+      "yourself",
+      "doing",
+      "near",
+      "future"
+    ]
+  },
+  {
+    "id": "S5.3",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "How often do you eat out at SIT-DOWN RESTAURANTS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "sit-down",
+      "restaurants"
+    ]
+  },
+  {
+    "id": "S5.4",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "How often do you eat FAST FOOD OR TAKEAWAYS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "fast",
+      "food",
+      "takeaways"
+    ]
+  },
+  {
+    "id": "S5.5",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these RESTAURANTS do you regularly use/visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "restaurants",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S5.6",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these PIZZA RESTAURANTS do you regularly use/visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "pizza",
+      "restaurants",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S5.7",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which FISH RESTAURANTS do you regularly use/visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "fish",
+      "restaurants",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S5.8",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these COFFEE SHOPS do you regularly use/visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "coffee",
+      "shops",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S5.9",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of the following ALCOHOLIC BEVERAGES do you drink often?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "alcoholic",
+      "beverages",
+      "drink",
+      "often"
+    ]
+  },
+  {
+    "id": "S5.10",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of CIDER do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "cider",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.11",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of BEER do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "beer",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.12",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of WHISKY do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "whisky",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.13",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of the following SINGLE MALT WHISKIES have you purchased in the last year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "single",
+      "malt",
+      "whiskies",
+      "have",
+      "purchased",
+      "last"
+    ]
+  },
+  {
+    "id": "S5.14",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of COGNAC do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "cognac",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.15",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of BRANDY do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "brandy",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.16",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of VODKA do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "vodka",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.17",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of GIN do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.18",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What brands of RUM do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brands",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.19",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these PREMIXED drinks or coolers do you drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "premixed",
+      "drinks",
+      "coolers",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.20",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of the following brands of TEQUILA do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "brands",
+      "tequila",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.21",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What RED WINES do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "wines",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.22",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What WHITE WINES do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "white",
+      "wines",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.23",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "What PINK WINES do you mostly drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "pink",
+      "wines",
+      "mostly",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.24",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these MCCs or CHAMPAGNES do you most often drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "mccs",
+      "champagnes",
+      "most",
+      "often",
+      "drink"
+    ]
+  },
+  {
+    "id": "S5.25",
+    "topic": "Food, Restaurants & Beverages",
+    "text": "Which of these OTHER LIQUORS do you drink?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "other",
+      "liquors",
+      "drink"
+    ]
+  },
+  {
+    "id": "S6.1",
+    "topic": "Shopping & Clothes",
+    "text": "As a shopper, which of the following statements do you AGREE with?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "shopper",
+      "which",
+      "following",
+      "statements",
+      "agree",
+      "with"
+    ]
+  },
+  {
+    "id": "S6.2",
+    "topic": "Shopping & Clothes",
+    "text": "How many TIMES A WEEK do you shop for groceries?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "many",
+      "times",
+      "week",
+      "shop",
+      "groceries"
+    ]
+  },
+  {
+    "id": "S6.3",
+    "topic": "Shopping & Clothes",
+    "text": "Roughly how much does your household SPEND ON GROCERIES every month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "roughly",
+      "much",
+      "does",
+      "your",
+      "household",
+      "spend",
+      "groceries",
+      "every"
+    ]
+  },
+  {
+    "id": "S6.4",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you do MOST of your grocery shopping?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "most",
+      "your",
+      "grocery",
+      "shopping"
+    ]
+  },
+  {
+    "id": "S6.5",
+    "topic": "Shopping & Clothes",
+    "text": "And WHERE ELSE do you shop for groceries?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "else",
+      "shop",
+      "groceries"
+    ]
+  },
+  {
+    "id": "S6.6",
+    "topic": "Shopping & Clothes",
+    "text": "WHY do you do most of your grocery shopping at {GroceryStoreMostUsed}?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "most",
+      "your",
+      "grocery",
+      "shopping",
+      "grocerystoremostused"
+    ]
+  },
+  {
+    "id": "S6.7",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these SAME-DAY GROCERY DELIVERY SERVICES do you use at least once a month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "same-day",
+      "grocery",
+      "delivery",
+      "services",
+      "least",
+      "once"
+    ]
+  },
+  {
+    "id": "S6.8",
+    "topic": "Shopping & Clothes",
+    "text": "How often do you do a REGULAR BULK GROCERY SHOP?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "regular",
+      "bulk",
+      "grocery",
+      "shop"
+    ]
+  },
+  {
+    "id": "S6.9",
+    "topic": "Shopping & Clothes",
+    "text": "WHERE do you do your bulk grocery shopping?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "your",
+      "bulk",
+      "grocery",
+      "shopping"
+    ]
+  },
+  {
+    "id": "S6.10",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these PETROL STATIONS OR STORES do you regularly use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "petrol",
+      "stations",
+      "stores",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S6.11",
+    "topic": "Shopping & Clothes",
+    "text": "Why do you USE these fuel stops and stores?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "these",
+      "fuel",
+      "stops",
+      "stores"
+    ]
+  },
+  {
+    "id": "S6.12",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these JOHANNESBURG shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "johannesburg",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.13",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these TSHWANE shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "tshwane",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.14",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these KZN shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.15",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these WESTERN CAPE shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "western",
+      "cape",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.16",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these NORTHERN CAPE shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "northern",
+      "cape",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.17",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these EASTERN CAPE shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "eastern",
+      "cape",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.18",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these FREE STATE shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "free",
+      "state",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.19",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these LIMPOPO shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "limpopo",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.20",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these MPUMALANGA shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "mpumalanga",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.21",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these NORTH WEST shopping malls do you regularly visit?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "north",
+      "west",
+      "shopping",
+      "malls",
+      "regularly",
+      "visit"
+    ]
+  },
+  {
+    "id": "S6.22",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you regularly shop for CLOTHING?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "regularly",
+      "shop",
+      "clothing"
+    ]
+  },
+  {
+    "id": "S6.23",
+    "topic": "Shopping & Clothes",
+    "text": "And which one of these clothing stores do you shop at MOST OFTEN?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "clothing",
+      "stores",
+      "shop",
+      "most",
+      "often"
+    ]
+  },
+  {
+    "id": "S6.24",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these stores do you regularly shop at for SHOES?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "stores",
+      "regularly",
+      "shop",
+      "shoes"
+    ]
+  },
+  {
+    "id": "S6.25",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these CLOTHING OR FOOTWEAR BRANDS do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "clothing",
+      "footwear",
+      "brands"
+    ]
+  },
+  {
+    "id": "S6.26",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these stores do you regularly shop at for ACCESSORIES (jewellery, sunglasses, bags, belts)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "stores",
+      "regularly",
+      "shop",
+      "accessories",
+      "jewellery",
+      "sunglasses"
+    ]
+  },
+  {
+    "id": "S6.27",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for HOMEWARE, APPLIANCES AND FURNITURE?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "homeware",
+      "appliances",
+      "furniture"
+    ]
+  },
+  {
+    "id": "S6.28",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you buy your HEALTH, TOILETRIES and PHARMACEUTICAL PRODUCTS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "your",
+      "health",
+      "toiletries",
+      "pharmaceutical",
+      "products"
+    ]
+  },
+  {
+    "id": "S6.29",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you regularly shop for BEAUTY PRODUCTS AND FRAGRANCES?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "regularly",
+      "shop",
+      "beauty",
+      "products",
+      "fragrances"
+    ]
+  },
+  {
+    "id": "S6.30",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for LIQUOR?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "liquor"
+    ]
+  },
+  {
+    "id": "S6.31",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for HARDWARE / DIY SUPPLIES?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "hardware",
+      "supplies"
+    ]
+  },
+  {
+    "id": "S6.32",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for SPORTS, OUTDOOR EQUIPMENT and CLOTHING?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "sports",
+      "outdoor",
+      "equipment",
+      "clothing"
+    ]
+  },
+  {
+    "id": "S6.33",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for ELECTRONIC EQUIPMENT OR GADGETS (computers, cameras, music, etc.)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "electronic",
+      "equipment",
+      "gadgets",
+      "computers",
+      "cameras",
+      "music"
+    ]
+  },
+  {
+    "id": "S6.34",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these brands of SMALL home appliances do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "brands",
+      "small",
+      "home",
+      "appliances"
+    ]
+  },
+  {
+    "id": "S6.35",
+    "topic": "Shopping & Clothes",
+    "text": "Which of these brands of LARGE home appliances do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "brands",
+      "large",
+      "home",
+      "appliances"
+    ]
+  },
+  {
+    "id": "S6.36",
+    "topic": "Shopping & Clothes",
+    "text": "Where do you shop for BOOKS AND STATIONERY?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "where",
+      "shop",
+      "books",
+      "stationery"
+    ]
+  },
+  {
+    "id": "S7.1",
+    "topic": "Tech & Internet",
+    "text": "Which of these statements BEST DESCRIBES your attitude towards new technology (e.g.. smartphones, apps, home appliances)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "statements",
+      "best",
+      "describes",
+      "your",
+      "attitude",
+      "towards"
+    ]
+  },
+  {
+    "id": "S7.2",
+    "topic": "Tech & Internet",
+    "text": "How do you CONNECT TO THE INTERNET at home?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "connect",
+      "internet",
+      "home"
+    ]
+  },
+  {
+    "id": "S7.3",
+    "topic": "Tech & Internet",
+    "text": "What have you used AI tools (e.g. ChatGPT, Gemini, Copilot, Midjourney) for?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "have",
+      "used",
+      "tools",
+      "chatgpt",
+      "gemini",
+      "copilot",
+      "midjourney"
+    ]
+  },
+  {
+    "id": "S7.4",
+    "topic": "Tech & Internet",
+    "text": "Which of the following are TRUE for you when it comes to AI?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "true",
+      "when",
+      "comes"
+    ]
+  },
+  {
+    "id": "S7.5",
+    "topic": "Tech & Internet",
+    "text": "What make(s) of MOBILE PHONE(s) do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "make",
+      "mobile",
+      "phone"
+    ]
+  },
+  {
+    "id": "S7.6",
+    "topic": "Tech & Internet",
+    "text": "How often do you typically UPGRADE your main MOBILE PHONE?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "typically",
+      "upgrade",
+      "your",
+      "main",
+      "mobile",
+      "phone"
+    ]
+  },
+  {
+    "id": "S7.7",
+    "topic": "Tech & Internet",
+    "text": "Which CELLPHONE NETWORK(s) do you mostly use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "cellphone",
+      "network",
+      "mostly"
+    ]
+  },
+  {
+    "id": "S7.8",
+    "topic": "Tech & Internet",
+    "text": "Which is your PRIMARY cellular network?",
+    "options": [
+      "Item 1",
+      "Item 2",
+      "Item 3"
+    ],
+    "format": "poll",
+    "keywords": [
+      "which",
+      "your",
+      "primary",
+      "cellular",
+      "network"
+    ]
+  },
+  {
+    "id": "S7.9",
+    "topic": "Tech & Internet",
+    "text": "What type of CELLPHONE PLAN do you mainly use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "type",
+      "cellphone",
+      "plan",
+      "mainly"
+    ]
+  },
+  {
+    "id": "S7.10",
+    "topic": "Tech & Internet",
+    "text": "Roughly HOW MUCH do you personally spend each month on your cellphone (airtime + data + add-ons)?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "roughly",
+      "much",
+      "personally",
+      "spend",
+      "each",
+      "month",
+      "your",
+      "cellphone"
+    ]
+  },
+  {
+    "id": "S7.11",
+    "topic": "Tech & Internet",
+    "text": "What brand(s) of LAPTOP OR DESKTOP do you own?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "brand",
+      "laptop",
+      "desktop"
+    ]
+  },
+  {
+    "id": "S7.12",
+    "topic": "Tech & Internet",
+    "text": "In which of these places do you connect to FREE WI-FI at least once a week?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "places",
+      "connect",
+      "free",
+      "wi-fi",
+      "least",
+      "once"
+    ]
+  },
+  {
+    "id": "S7.13",
+    "topic": "Tech & Internet",
+    "text": "Which of the following DEVICES do you use to access the internet?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "devices",
+      "access",
+      "internet"
+    ]
+  },
+  {
+    "id": "S7.14",
+    "topic": "Tech & Internet",
+    "text": "Which of the following things do you SEARCH FOR ONLINE at least once a week?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "things",
+      "search",
+      "online",
+      "least",
+      "once",
+      "week"
+    ]
+  },
+  {
+    "id": "S7.15",
+    "topic": "Tech & Internet",
+    "text": "And which of the following do you REGULARLY DO online?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "regularly",
+      "online"
+    ]
+  },
+  {
+    "id": "S7.16",
+    "topic": "Tech & Internet",
+    "text": "Which of these PAYMENT APPS OR PLATFORMS do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "payment",
+      "apps",
+      "platforms"
+    ]
+  },
+  {
+    "id": "S7.17",
+    "topic": "Tech & Internet",
+    "text": "Which of these items have you BOUGHT ONLINE in the last year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "items",
+      "have",
+      "bought",
+      "online",
+      "last",
+      "year"
+    ]
+  },
+  {
+    "id": "S7.18",
+    "topic": "Tech & Internet",
+    "text": "Which of these online shopping sites have you BROWSED in the last year?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "online",
+      "shopping",
+      "sites",
+      "have",
+      "browsed",
+      "last"
+    ]
+  },
+  {
+    "id": "S7.19",
+    "topic": "Tech & Internet",
+    "text": "Which of these sites have you actually BOUGHT SOMETHING from?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "sites",
+      "have",
+      "actually",
+      "bought",
+      "something",
+      "from"
+    ]
+  },
+  {
+    "id": "S7.20",
+    "topic": "Tech & Internet",
+    "text": "Apart from food and groceries, HOW OFTEN do you shop for goods at online retailers?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "apart",
+      "from",
+      "food",
+      "groceries",
+      "often",
+      "shop",
+      "goods",
+      "online"
+    ]
+  },
+  {
+    "id": "S8.1",
+    "topic": "Media",
+    "text": "Which of the following news media sources DO YOU TRUST?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "news",
+      "media",
+      "sources",
+      "trust"
+    ]
+  },
+  {
+    "id": "S8.2",
+    "topic": "Media",
+    "text": "In the past 6 months, which of the following media channels have carried AN ADVERT that actually made you go out and buy something?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "past",
+      "months",
+      "which",
+      "following",
+      "media",
+      "channels",
+      "have",
+      "carried"
+    ]
+  },
+  {
+    "id": "S8.3",
+    "topic": "Media",
+    "text": "In the past few weeks, which of these OUTDOOR MEDIA have carried an advert that caught your eye?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "past",
+      "weeks",
+      "which",
+      "these",
+      "outdoor",
+      "media",
+      "have",
+      "carried"
+    ]
+  },
+  {
+    "id": "S8.4",
+    "topic": "Media",
+    "text": "Which of these NEWS SITES do you visit regularly?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "news",
+      "sites",
+      "visit",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S8.5",
+    "topic": "Media",
+    "text": "Which of these SPECIAL INTEREST SITES do you visit regularly?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "special",
+      "interest",
+      "sites",
+      "visit",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S8.6",
+    "topic": "Media",
+    "text": "Which of these CHAT OR MESSAGING SERVICES do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "chat",
+      "messaging",
+      "services"
+    ]
+  },
+  {
+    "id": "S8.7",
+    "topic": "Media",
+    "text": "How often do you listen to PODCASTS?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "listen",
+      "podcasts"
+    ]
+  },
+  {
+    "id": "S8.8",
+    "topic": "Media",
+    "text": "What KIND OF PODCASTS do you regularly listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "kind",
+      "podcasts",
+      "regularly",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.9",
+    "topic": "Media",
+    "text": "How often do you WATCH VIDEOS on YouTube or Vimeo?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "watch",
+      "videos",
+      "youtube",
+      "vimeo"
+    ]
+  },
+  {
+    "id": "S8.10",
+    "topic": "Media",
+    "text": "Which of these digital / STREAMING ENTERTAINMENT SERVICES do you use?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "digital",
+      "streaming",
+      "entertainment",
+      "services"
+    ]
+  },
+  {
+    "id": "S8.11",
+    "topic": "Media",
+    "text": "How much time do you spend on SOCIAL MEDIA?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "much",
+      "time",
+      "spend",
+      "social",
+      "media"
+    ]
+  },
+  {
+    "id": "S8.12",
+    "topic": "Media",
+    "text": "Which of the following SOCIAL MEDIA PLATFORMS do you use regularly?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "social",
+      "media",
+      "platforms",
+      "regularly"
+    ]
+  },
+  {
+    "id": "S8.13",
+    "topic": "Media",
+    "text": "How often do you LISTEN TO THE RADIO?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "listen",
+      "radio"
+    ]
+  },
+  {
+    "id": "S8.14",
+    "topic": "Media",
+    "text": "WHEN do you listen to the radio?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "when",
+      "listen",
+      "radio"
+    ]
+  },
+  {
+    "id": "S8.15",
+    "topic": "Media",
+    "text": "Which of these WAYS do you listen to the radio at least once a week?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "ways",
+      "listen",
+      "radio",
+      "least",
+      "once",
+      "week"
+    ]
+  },
+  {
+    "id": "S8.16",
+    "topic": "Media",
+    "text": "Which NATIONAL RADIO STATIONS do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "national",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.17",
+    "topic": "Media",
+    "text": "Which GAUTENG regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "gauteng",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.18",
+    "topic": "Media",
+    "text": "Which KWAZULU-NATAL regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "kwazulu-natal",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.19",
+    "topic": "Media",
+    "text": "Which WESTERN CAPE regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "western",
+      "cape",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.20",
+    "topic": "Media",
+    "text": "Which NORTHERN CAPE regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "northern",
+      "cape",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.21",
+    "topic": "Media",
+    "text": "Which EASTERN CAPE regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "eastern",
+      "cape",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.22",
+    "topic": "Media",
+    "text": "Which FREE STATE regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "free",
+      "state",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.23",
+    "topic": "Media",
+    "text": "Which MPUMALANGA regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "mpumalanga",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.24",
+    "topic": "Media",
+    "text": "Which LIMPOPO regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "limpopo",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.25",
+    "topic": "Media",
+    "text": "Which NORTH WEST regional radio stations do you listen to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "north",
+      "west",
+      "regional",
+      "radio",
+      "stations",
+      "listen"
+    ]
+  },
+  {
+    "id": "S8.26",
+    "topic": "Media",
+    "text": "Which of these POPULAR STATIONS (that may be outside your province) do you listen to online or via streaming?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "popular",
+      "stations",
+      "that",
+      "outside",
+      "your",
+      "province"
+    ]
+  },
+  {
+    "id": "S8.27",
+    "topic": "Media",
+    "text": "Which is your FAVOURITE radio station?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "your",
+      "favourite",
+      "radio",
+      "station"
+    ]
+  },
+  {
+    "id": "S8.28",
+    "topic": "Media",
+    "text": "WHY is {RadioStationFavourite} your favourite radio station? Tick as many as apply.",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "radiostationfavourite",
+      "your",
+      "favourite",
+      "radio",
+      "station",
+      "tick",
+      "many",
+      "apply"
+    ]
+  },
+  {
+    "id": "S8.29",
+    "topic": "Media",
+    "text": "How often do you WATCH TV?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "often",
+      "watch"
+    ]
+  },
+  {
+    "id": "S8.30",
+    "topic": "Media",
+    "text": "Which of these TV services do you USE OR SUBSCRIBE TO?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "services",
+      "subscribe"
+    ]
+  },
+  {
+    "id": "S8.31",
+    "topic": "Media",
+    "text": "Which DStv PACKAGE do you subscribe to?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "dstv",
+      "package",
+      "subscribe"
+    ]
+  },
+  {
+    "id": "S8.32",
+    "topic": "Media",
+    "text": "Which of these SABC TV channels do you watch?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "sabc",
+      "channels",
+      "watch"
+    ]
+  },
+  {
+    "id": "S8.33",
+    "topic": "Media",
+    "text": "Which of the following TV CHANNELS do you watch?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "channels",
+      "watch"
+    ]
+  },
+  {
+    "id": "S8.34",
+    "topic": "Media",
+    "text": "What types of TV PROGRAMMES have you watched in the past month?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "what",
+      "types",
+      "programmes",
+      "have",
+      "watched",
+      "past",
+      "month"
+    ]
+  },
+  {
+    "id": "S8.35",
+    "topic": "Media",
+    "text": "Which of these SPORTS do you regularly watch on TV?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "these",
+      "sports",
+      "regularly",
+      "watch"
+    ]
+  },
+  {
+    "id": "S8.36",
+    "topic": "Media",
+    "text": "How do you read NEWSPAPER content?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "read",
+      "newspaper",
+      "content"
+    ]
+  },
+  {
+    "id": "S8.37",
+    "topic": "Media",
+    "text": "Which DAILY NEWSPAPERS do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "daily",
+      "newspapers",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.38",
+    "topic": "Media",
+    "text": "Which WEEKLY/WEEKEND NEWSPAPERS do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "weekly",
+      "weekend",
+      "newspapers",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.39",
+    "topic": "Media",
+    "text": "In which of the following ways do you GET YOUR NEWS i.e. know what's happening in the world?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "ways",
+      "your",
+      "news",
+      "know",
+      "what's",
+      "happening"
+    ]
+  },
+  {
+    "id": "S8.40",
+    "topic": "Media",
+    "text": "How often do you read local COMMUNITY NEWSPAPERS?",
+    "options": [
+      "Often",
+      "Occasionally",
+      "Hardly ever",
+      "Never"
+    ],
+    "format": "poll",
+    "keywords": [
+      "often",
+      "read",
+      "local",
+      "community",
+      "newspapers"
+    ]
+  },
+  {
+    "id": "S8.41",
+    "topic": "Media",
+    "text": "Which of the following best describes HOW YOU FEEL about local community newspapers?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "following",
+      "best",
+      "describes",
+      "feel",
+      "about",
+      "local",
+      "community"
+    ]
+  },
+  {
+    "id": "S8.42",
+    "topic": "Media",
+    "text": "How do you read MAGAZINE content?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "read",
+      "magazine",
+      "content"
+    ]
+  },
+  {
+    "id": "S8.43",
+    "topic": "Media",
+    "text": "Which TYPES OF MAGAZINE CONTENT do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "types",
+      "magazine",
+      "content",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.44",
+    "topic": "Media",
+    "text": "Which BUSINESS AND NEWS magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "business",
+      "news",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.45",
+    "topic": "Media",
+    "text": "Which TRAVEL magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "travel",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.46",
+    "topic": "Media",
+    "text": "Which BABY magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "baby",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.47",
+    "topic": "Media",
+    "text": "Which FARMING magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "farming",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.48",
+    "topic": "Media",
+    "text": "Which DÉCOR magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.49",
+    "topic": "Media",
+    "text": "Which MEN'S magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "men's",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.50",
+    "topic": "Media",
+    "text": "Which MOTORING magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "motoring",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.51",
+    "topic": "Media",
+    "text": "Which PET magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.52",
+    "topic": "Media",
+    "text": "Which TECHNOLOGY magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "technology",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.53",
+    "topic": "Media",
+    "text": "Which SPORT & HOBBY magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "sport",
+      "hobby",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.54",
+    "topic": "Media",
+    "text": "Which COOKING magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "cooking",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.55",
+    "topic": "Media",
+    "text": "Which FEMALE INTEREST magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "female",
+      "interest",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.56",
+    "topic": "Media",
+    "text": "Which OTHER magazines do you regularly read online or in print?",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "which",
+      "other",
+      "magazines",
+      "regularly",
+      "read",
+      "online",
+      "print"
+    ]
+  },
+  {
+    "id": "S8.57",
+    "topic": "Media",
+    "text": "Before you go - please tick these last three questions...",
+    "options": [],
+    "format": "open_question",
+    "keywords": [
+      "before",
+      "please",
+      "tick",
+      "these",
+      "last",
+      "three",
+      "questions"
+    ]
+  }
+]
