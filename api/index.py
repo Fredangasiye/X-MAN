@@ -110,12 +110,13 @@ class handler(BaseHTTPRequestHandler):
     def do_POST(self):
         if not self.authenticated(): return self.challenge()
         length = int(self.headers.get("Content-Length", 0)); form = urllib.parse.parse_qs(self.rfile.read(length).decode())
+        route = form.get("do", [""])[0]
         try:
-            if self.path.endswith("/toggle"):
+            if route == "toggle":
                 kv("SET", "bot:enabled", "false" if enabled() else "true"); message = "Posting setting updated."
-            elif self.path.endswith("/post"): message = "Posted X post " + post_question(choose_question()) + "."
-            elif self.path.endswith("/find"): message = f"Found {len(candidate(choose_question()))} candidate posts."
-            elif self.path.endswith("/action"): message = action(form["id"][0], form["action"][0])
+            elif route == "post": message = "Posted X post " + post_question(choose_question()) + "."
+            elif route == "find": message = f"Found {len(candidate(choose_question()))} candidate posts."
+            elif route == "action": message = action(form["id"][0], form["action"][0])
             else: message = "Unknown action."
         except Exception as exc: message = str(exc)[:500]
         self.respond(dashboard(message))
